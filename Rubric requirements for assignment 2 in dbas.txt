@@ -1,0 +1,20 @@
+Rubric requirements.
+
+Part 1.
+6/6 tables are configured with purposefully chosen data types and any additional details.
+
+Part 2.
+6/6 statements executed without issue and match the data dictionary exactly.
+
+Part 3.
+
+5/5 required referential constraints are effectively configured through your CREATE statements.
+
+Part 4.
+6/6 tables populated by using INSERT statements using the example data.
+
+Part 5 and 6.
+
+Alterations Script: Both edits worked!
+
+Formatting & Commenting: Formatting & commenting make for an easily reviewed and understood set of scripts.
